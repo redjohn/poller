@@ -1,0 +1,5 @@
+log/
+db/
+tmp/
+*.sublime-project
+*.sublime-workspace
