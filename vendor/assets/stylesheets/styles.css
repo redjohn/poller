@@ -1,0 +1,5 @@
+@include url('http://yui.yahooapis.com/3.2.0/build/cssreset/reset-min.css');
+
+body {
+	background-color:blue;
+}
